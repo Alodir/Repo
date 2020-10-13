@@ -1,2 +1,2 @@
 # tutoriel 
-ceci est un tutoriel de test
+ceci est un tutoriel de test rapide
